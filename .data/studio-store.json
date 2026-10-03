@@ -1,0 +1,612 @@
+{
+  "projects": [
+    {
+      "id": "proj-premium-living",
+      "title": "Premium Living Campaign",
+      "slug": "premium-living-campaign",
+      "clientName": "DAC Developers",
+      "industry": "Real Estate & Architecture",
+      "projectYear": "2025",
+      "category": "Branding",
+      "servicesProvided": [
+        "Branding & Identity",
+        "Graphic Design & Advertising"
+      ],
+      "shortDescription": "Complete brand architecture and architectural marketing campaign for premier high-rise residential towers.",
+      "projectBrief": "DAC Developers commissioned Let's Think Studio to craft a luxury visual identity and marketing campaign for their flagship residential development.",
+      "businessChallenge": "The premium real estate sector suffers from ubiquitous, interchangeable marketing. The campaign needed to convey timeless architectural prestige, sanctuary living, and elite craft.",
+      "creativeStrategy": "Created an evocative brand narrative centered on 'Sculpted Horizon'. Paired warm stone hues, classical architectural proportions, and an editorial typographical identity.",
+      "designProcess": "Engineered multi-channel marketing collateral spanning luxury brochure books with copper foil, environmental sales gallery hoardings, and targeted digital acquisition campaigns.",
+      "finalSolution": "A unified brand presence that positioned the towers as an aspirational architectural milestone in urban living.",
+      "verifiedResults": "Achieved 85% phase 1 residence pre-sale commitments within 60 days of identity launch.",
+      "coverImage": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?q=80&w=1200&auto=format&fit=crop",
+      "coverImageAlt": "Premium Living luxury architectural residence campaign by Let's Think Studio",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "featured": true,
+      "displayOrder": 1,
+      "status": "published",
+      "seoTitle": "Premium Living Campaign | Let's Think Studio Case Study",
+      "seoDescription": "Luxury real estate branding and architectural marketing campaign designed by Let's Think Studio.",
+      "createdAt": "2025-10-15T00:00:00Z",
+      "updatedAt": "2025-10-15T00:00:00Z"
+    },
+    {
+      "id": "proj-surabi-masala",
+      "title": "Masala Brand Identity",
+      "slug": "masala-brand-identity",
+      "clientName": "Surabi Spices Co.",
+      "industry": "FMCG & Gourmet Food",
+      "projectYear": "2025",
+      "category": "Packaging",
+      "servicesProvided": [
+        "Packaging & Print",
+        "Branding & Identity"
+      ],
+      "shortDescription": "Stand-up pouch packaging architecture and modern visual identity system for artisanal spice blends.",
+      "projectBrief": "Surabi approached Let's Think Studio to reimagine their traditional culinary product range into a contemporary, shelf-dominating gourmet packaging collection.",
+      "businessChallenge": "Spice packaging is traditionally cluttered and dated. Surabi needed packaging that honored authentic regional heritage while appealing to modern urban epicures.",
+      "creativeStrategy": "Designed a clean, warm kraft and saffron color palette anchored by a distinctive geometric sun-burst emblem and bold, legible flavor iconography.",
+      "designProcess": "Prototyped barrier pouches with matte finish and spot-varnish accents highlighting the aromatic purity of the whole spices.",
+      "finalSolution": "A complete 12-SKU retail packaging suite with standardized dielines, regulatory compliance, and high shelf impact.",
+      "verifiedResults": "Secured placement across 120+ modern retail gourmet chains; brand recall improved by 40%.",
+      "coverImage": "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?q=80&w=1200&auto=format&fit=crop",
+      "coverImageAlt": "Surabi Masala gourmet pouch packaging design by Let's Think Studio",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "featured": true,
+      "displayOrder": 2,
+      "status": "published",
+      "seoTitle": "Surabi Masala Brand Identity & Packaging | Let's Think Studio",
+      "seoDescription": "Artisanal gourmet food packaging and brand identity design by Let's Think Studio.",
+      "createdAt": "2025-08-20T00:00:00Z",
+      "updatedAt": "2025-08-20T00:00:00Z"
+    },
+    {
+      "id": "proj-dac-real-estate-website",
+      "title": "Real Estate Website",
+      "slug": "real-estate-website",
+      "clientName": "DAC Developers",
+      "industry": "Real Estate & Technology",
+      "projectYear": "2025",
+      "category": "Websites and UI/UX",
+      "servicesProvided": [
+        "Website Design & Development",
+        "Creative Strategy"
+      ],
+      "shortDescription": "A high-performance digital flagship and responsive project portal with interactive floorplans.",
+      "projectBrief": "Build an ultra-fast, responsive web platform for DAC Developers under the tagline 'Building Better Tomorrow' to convert high-net-worth property seekers.",
+      "businessChallenge": "Previous website had a 6-second load time, convoluted property discovery navigation, and high bounce rate on mobile devices.",
+      "creativeStrategy": "Constructed an immersive, dark-themed editorial web experience with virtual property walk-throughs, immediate lead capture, and instant WhatsApp inquiry connectivity.",
+      "designProcess": "Designed in Figma with custom component libraries, developed with Next.js App Router and optimized for Core Web Vitals with 99+ mobile performance score.",
+      "finalSolution": "A seamless web platform featuring instant floor plan filtering, mortgage estimators, and automated lead capture.",
+      "verifiedResults": "Mobile inquiry conversion jumped by 240%; average session duration increased from 42s to 3m 15s.",
+      "coverImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop",
+      "coverImageAlt": "DAC Developers Real Estate Website UI/UX by Let's Think Studio",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "featured": true,
+      "displayOrder": 3,
+      "status": "published",
+      "seoTitle": "Real Estate Website Design | Let's Think Studio",
+      "seoDescription": "Bespoke high-conversion real estate website design and development for DAC Developers.",
+      "createdAt": "2025-06-10T00:00:00Z",
+      "updatedAt": "2025-06-10T00:00:00Z"
+    },
+    {
+      "id": "proj-outdoor-campaign",
+      "title": "Outdoor Campaign",
+      "slug": "outdoor-campaign",
+      "clientName": "MAX Ventures",
+      "industry": "Real Estate & Commercial Development",
+      "projectYear": "2025",
+      "category": "Print and Outdoor",
+      "servicesProvided": [
+        "Graphic Design & Advertising",
+        "Digital Marketing"
+      ],
+      "shortDescription": "Large-scale highway billboards and transit advertising for MAX Ventures 'A Brighter Tomorrow' launch.",
+      "projectBrief": "Deliver an eye-catching, high-contrast outdoor campaign across key highway interchanges and metropolitan transit hubs.",
+      "businessChallenge": "Highway motorists have less than 3 seconds to register a message. Visuals had to be unmistakable with high typographic legibility at 80mph.",
+      "creativeStrategy": "Developed the commanding concept 'A Brighter Tomorrow' pairing monumental architecture photography with stark geometric orange accents and crisp typography.",
+      "designProcess": "Tested color contrast at distance across daylight, dusk, and nighttime ambient illumination; engineered prepress vector mechanicals up to 60x20 feet.",
+      "finalSolution": "Synchronized rollout of 18 high-impact OOH billboards and supporting digital display assets.",
+      "verifiedResults": "Generated over 4.2M verified vehicular impressions and a 38% increase in direct showroom walk-ins.",
+      "coverImage": "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=1200&auto=format&fit=crop",
+      "coverImageAlt": "MAX Ventures Outdoor Billboard Campaign by Let's Think Studio",
+      "galleryImages": [
+        "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=1200&auto=format&fit=crop",
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1200&auto=format&fit=crop"
+      ],
+      "featured": true,
+      "displayOrder": 4,
+      "status": "published",
+      "seoTitle": "MAX Ventures Outdoor Billboard Campaign | Let's Think Studio",
+      "seoDescription": "High-impact outdoor advertising and billboard campaign for MAX Ventures.",
+      "createdAt": "2025-04-18T00:00:00Z",
+      "updatedAt": "2025-04-18T00:00:00Z"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-branding",
+      "title": "Brand Strategy & Identity",
+      "slug": "brand-identity",
+      "shortDescription": "Build a strong and memorable brand.",
+      "headline": "Transforming Core Convictions into Unforgettable Brand Identities",
+      "introduction": "In saturated markets, differentiation is survival. We build comprehensive visual and verbal identities from the ground up—uniting naming, brand positioning, typographic systems, color theory, and bespoke design languages that command authority and captivate audiences.",
+      "problemsSolved": [
+        "Inconsistent visual representation across digital and print touchpoints",
+        "Lack of emotional resonance with target high-value clients",
+        "Outdated brand perception failing to reflect current business maturity",
+        "Difficulty establishing premium price positioning in competitive sectors"
+      ],
+      "deliverables": [
+        "Brand Positioning & Core Narrative Architecture",
+        "Logotype, Monograms & Responsive Visual Marks",
+        "Comprehensive Typography & Chromatic Systems",
+        "Editorial Brand Identity Guidelines & Asset Library",
+        "Brand Collateral, Stationery & Digital Templates",
+        "Multi-channel Asset Kits (Figma, Vector, Web)"
+      ],
+      "processSteps": [
+        {
+          "stepNumber": "01",
+          "title": "Cultural & Strategic Audit",
+          "description": "Analyzing competitive landscape, category tropes, and audience psychology."
+        },
+        {
+          "stepNumber": "02",
+          "title": "Visual Territory Exploration",
+          "description": "Developing three distinct conceptual territories with typography and art direction."
+        },
+        {
+          "stepNumber": "03",
+          "title": "Systemic Refinement",
+          "description": "Perfecting chosen direction across physical and digital brand touchpoints."
+        },
+        {
+          "stepNumber": "04",
+          "title": "Brand Guidelines & Rollout",
+          "description": "Delivering a comprehensive brand bible and master vector assets."
+        }
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?q=80&w=1200&auto=format&fit=crop",
+      "iconName": "PenTool",
+      "displayOrder": 1,
+      "status": "published",
+      "faqs": [
+        {
+          "id": "faq-b1",
+          "question": "How long does a complete brand identity project take?",
+          "answer": "A standard brand identity engagement typically takes between 4 to 8 weeks, depending on whether naming and extensive brand architecture are included in the scope."
+        },
+        {
+          "id": "faq-b2",
+          "question": "What files and assets do we receive upon completion?",
+          "answer": "You receive an extensive digital package including master vector files (.SVG, .EPS, .AI), print-ready exports (.PDF), digital screen assets (.PNG, .WebP), brand typography files, and an exhaustive interactive brand guidelines document."
+        }
+      ],
+      "seoTitle": "Branding and Identity Design | Let's Think Studio",
+      "seoDescription": "Strategic brand identity, positioning, and visual systems for ambitious companies. Think Beyond. Create With Purpose.",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "srv-graphic-design",
+      "title": "Graphic Design & Advertising",
+      "slug": "graphic-design",
+      "shortDescription": "Creative designs for every platform.",
+      "headline": "Art-Directed Visual Communication That Cuts Through Noise",
+      "introduction": "Visual design is not merely decoration—it is commercial persuasion. We produce thoughtful print media, large-scale outdoor campaigns, investor presentations, editorial monographs, and multi-format advertising that convey complex ideas with clarity and graphic impact.",
+      "problemsSolved": [
+        "Cluttered marketing assets failing to communicate key value propositions",
+        "Disjointed campaign visuals across online and offline advertising",
+        "Low conversion rates on corporate sales decks and marketing presentations"
+      ],
+      "deliverables": [
+        "Integrated Print & Digital Advertising Campaigns",
+        "OOH Billboards, Transit Wraps & Environmental Signage",
+        "Investor Pitch Decks & Corporate Keynote Presentations",
+        "Editorial Catalogues, Lookbooks & Annual Reports"
+      ],
+      "processSteps": [
+        {
+          "stepNumber": "01",
+          "title": "Campaign Thesis",
+          "description": "Distilling the single most compelling consumer message into a creative brief."
+        },
+        {
+          "stepNumber": "02",
+          "title": "Art Direction & Copywriting",
+          "description": "Pairing sharp editorial headlines with bespoke typographic treatments."
+        },
+        {
+          "stepNumber": "03",
+          "title": "Cross-Channel Production",
+          "description": "Adapting high-resolution layouts for print, OOH, and digital placements."
+        }
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1542744094-3a31727221eb?q=80&w=1200&auto=format&fit=crop",
+      "iconName": "Image",
+      "displayOrder": 2,
+      "status": "published",
+      "faqs": [
+        {
+          "id": "faq-g1",
+          "question": "Can you handle both digital graphics and physical print specifications?",
+          "answer": "Yes. Our team has deep expertise in prepress color management as well as retina-optimized RGB digital standards."
+        }
+      ],
+      "seoTitle": "Graphic Design & Advertising | Let's Think Studio",
+      "seoDescription": "Art-directed graphic design, advertising campaigns, and editorial assets engineered for commercial impact.",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "srv-web-development",
+      "title": "Website Design & Development",
+      "slug": "website-development",
+      "shortDescription": "Modern, responsive web solutions.",
+      "headline": "Fast, Meticulously Crafted Digital Flagships Built for Modern Brands",
+      "introduction": "Your website is your primary brand touchpoint. We craft bespoke digital flagships combining editorial typography, silky micro-interactions, responsive architecture, and blazing load speeds. Every line of code is engineered for clarity, accessibility, and conversion.",
+      "problemsSolved": [
+        "Sluggish template websites that harm brand perception and Google rankings",
+        "Generic cookie-cutter layouts that make your business look like a thousand others",
+        "Poor mobile performance leading to high bounce rates and lost leads"
+      ],
+      "deliverables": [
+        "Custom UI/UX Design System in Figma",
+        "Next.js / React High-Performance Responsive Architecture",
+        "Tailored Content Management Systems (CMS)",
+        "Technical SEO Optimization & Core Web Vitals Optimization"
+      ],
+      "processSteps": [
+        {
+          "stepNumber": "01",
+          "title": "Information Architecture",
+          "description": "Mapping user journeys, page hierarchies, and conversion pathways."
+        },
+        {
+          "stepNumber": "02",
+          "title": "Visual Design & Prototyping",
+          "description": "Crafting bespoke desktop and mobile screens with custom art direction."
+        },
+        {
+          "stepNumber": "03",
+          "title": "Clean Modern Development",
+          "description": "Building pixel-perfect responsive layouts with modern performance standards."
+        }
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?q=80&w=1200&auto=format&fit=crop",
+      "iconName": "Monitor",
+      "displayOrder": 3,
+      "status": "published",
+      "faqs": [
+        {
+          "id": "faq-w1",
+          "question": "What technology stack do you utilize?",
+          "answer": "We specialize in modern web technologies including Next.js, React, TypeScript, Tailwind CSS, and headless databases."
+        }
+      ],
+      "seoTitle": "Website Design & Development | Let's Think Studio",
+      "seoDescription": "Bespoke website design and development combining editorial aesthetics with modern performance engineering.",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "srv-digital-marketing",
+      "title": "Digital Marketing",
+      "slug": "digital-marketing",
+      "shortDescription": "Reach, engage and grow online.",
+      "headline": "Data-Driven Marketing Powered by High-Converting Creative",
+      "introduction": "Traffic without resonance is wasted spend. We build holistic digital marketing strategies pairing analytical precision with compelling creative assets. From organic search positioning to high-intent paid campaigns, we help you acquire qualified leads and loyal customers.",
+      "problemsSolved": [
+        "Stagnant customer acquisition costs on paid social and search channels",
+        "Underperforming ad creatives that suffer from ad fatigue within days"
+      ],
+      "deliverables": [
+        "Comprehensive Digital Growth Strategy & Channel Roadmaps",
+        "High-Conversion Paid Search (PPC) & Paid Social Campaigns",
+        "Search Engine Optimization (Technical, On-Page & Content)",
+        "Conversion Rate Optimization (CRO) & Funnel Testing"
+      ],
+      "processSteps": [
+        {
+          "stepNumber": "01",
+          "title": "Audience Audit",
+          "description": "Mapping customer acquisition friction points."
+        },
+        {
+          "stepNumber": "02",
+          "title": "Creative Engine Setup",
+          "description": "Designing multiple creative angles tested systematically."
+        },
+        {
+          "stepNumber": "03",
+          "title": "Campaign Execution",
+          "description": "Launching tightly controlled ad sets."
+        }
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=1200&auto=format&fit=crop",
+      "iconName": "BarChart",
+      "displayOrder": 4,
+      "status": "published",
+      "faqs": [
+        {
+          "id": "faq-m1",
+          "question": "How do you measure success?",
+          "answer": "We align strictly with your business metrics—focusing on Customer Acquisition Cost (CAC), Return on Ad Spend (ROAS), and qualified pipeline value."
+        }
+      ],
+      "seoTitle": "Digital Marketing Services | Let's Think Studio",
+      "seoDescription": "Data-grounded digital marketing and high-performance creative campaigns that generate measurable revenue.",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "srv-packaging-print",
+      "title": "Packaging & Print",
+      "slug": "packaging-print",
+      "shortDescription": "From concept to print-ready design.",
+      "headline": "Elevating Physical Products into Coveted Tactile Objects",
+      "introduction": "In an increasingly virtual world, tangible objects hold supreme emotional weight. We design packaging systems and print materials that reward physical touch. From structural dielines to bespoke foiling and sustainable material sourcing, our work creates memorable unboxing rituals.",
+      "problemsSolved": [
+        "Physical packaging failing to justify premium retail price points",
+        "Generic unboxing experiences that fail to trigger organic social sharing"
+      ],
+      "deliverables": [
+        "Structural Box & Container Dieline Engineering",
+        "Primary & Secondary Label Design Systems",
+        "Custom Unboxing Experience Architecture & Inserts",
+        "Sustainable Material Selection & Substrate Consulting"
+      ],
+      "processSteps": [
+        {
+          "stepNumber": "01",
+          "title": "Structural Exploration",
+          "description": "Prototyping dieline structures and ergonomics."
+        },
+        {
+          "stepNumber": "02",
+          "title": "Surface Graphic Design",
+          "description": "Applying typographic hierarchy and finish treatments."
+        },
+        {
+          "stepNumber": "03",
+          "title": "Production Oversight",
+          "description": "Delivering precise mechanical artwork to manufacturers."
+        }
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1200&auto=format&fit=crop",
+      "iconName": "Package",
+      "displayOrder": 5,
+      "status": "published",
+      "faqs": [
+        {
+          "id": "faq-p1",
+          "question": "Can you provide eco-friendly packaging solutions?",
+          "answer": "Yes. We actively prioritize FSC-certified papers, soy-based inks, and plastic-free unboxing designs."
+        }
+      ],
+      "seoTitle": "Packaging and Print Design | Let's Think Studio",
+      "seoDescription": "Tactile packaging design, luxury unboxing experiences, and sustainable print engineering.",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "srv-creative-strategy",
+      "title": "Creative Strategy",
+      "slug": "creative-strategy",
+      "shortDescription": "Ideas backed by strategy.",
+      "headline": "Aligning Business Objectives with Creative Conviction",
+      "introduction": "Design without strategy is art; strategy without design is invisible. Our creative strategy engagements clarify where your business plays and how it wins. We unearth your brand's unique point of view, define clear audience archetypes, and build actionable creative roadmaps.",
+      "problemsSolved": [
+        "Internal misalignment on company vision, mission, and target customers",
+        "Wasted creative spending on disconnected tactics without an overarching thesis"
+      ],
+      "deliverables": [
+        "Executive Strategy Workshops & Stakeholder Interviews",
+        "Market Landscape & White-Space Positioning Matrix",
+        "Target Audience Archetypes & Behavioral Personas",
+        "12-Month Creative Roadmap & Content Strategy"
+      ],
+      "processSteps": [
+        {
+          "stepNumber": "01",
+          "title": "Deep Discovery",
+          "description": "Interrogating leadership vision and market friction."
+        },
+        {
+          "stepNumber": "02",
+          "title": "Market Archaeology",
+          "description": "Uncovering white-space opportunities where competitors remain silent."
+        },
+        {
+          "stepNumber": "03",
+          "title": "Strategic Synthesis",
+          "description": "Formulating the core brand platform and proposition."
+        }
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1200&auto=format&fit=crop",
+      "iconName": "Lightbulb",
+      "displayOrder": 6,
+      "status": "published",
+      "faqs": [
+        {
+          "id": "faq-s1",
+          "question": "When should a company engage in Creative Strategy?",
+          "answer": "Creative strategy is ideal before a major rebrand, when launching a transformative product, or entering a new market."
+        }
+      ],
+      "seoTitle": "Creative Strategy Consulting | Let's Think Studio",
+      "seoDescription": "Strategic brand roadmaps, market positioning, and audience architecture that bridge business intent and creative execution.",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "blog-1",
+      "title": "Why Design-Led Companies Command 200% Higher Valuation",
+      "slug": "why-design-led-companies-command-higher-valuation",
+      "excerpt": "Design is not cosmetic wrapping applied at the eleventh hour. When treated as core strategic infrastructure, it fundamentally reshapes margin, pricing power, and customer retention.",
+      "content": "\n### The Myth of Design as Cosmetic Decoration\nIn boardrooms across the world, design is frequently misunderstood. It is relegated to a superficial afterthought.\nData from the Design Management Institute’s Design Value Index demonstrates that over a ten-year horizon, design-centric organizations outperformed the S&P 500 by an astonishing 211%.\n    ",
+      "featuredImage": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1200&auto=format&fit=crop",
+      "featuredImageAlt": "Design-led strategy discussion and architectural planning",
+      "category": "Strategy",
+      "tags": [
+        "Brand Strategy",
+        "Design Value",
+        "Executive Leadership"
+      ],
+      "authorName": "Let's Think Studio",
+      "readingTimeMinutes": 5,
+      "status": "published",
+      "publishedAt": "2026-02-15T09:00:00Z",
+      "seoTitle": "Why Design-Led Companies Command Higher Valuation | Insights",
+      "seoDescription": "How design treated as strategic infrastructure drives pricing power and company valuation.",
+      "createdAt": "2026-02-15T09:00:00Z",
+      "updatedAt": "2026-02-15T09:00:00Z"
+    },
+    {
+      "id": "blog-2",
+      "title": "The Death of Generic Tech Aesthetics: The Return of Editorial Rigor",
+      "slug": "the-death-of-generic-tech-aesthetics",
+      "excerpt": "We have reached peak template saturation: identical purple gradients and rounded cards. Here is why iconic brands look to editorial print.",
+      "content": "\n### The Great Homogenization\nTake thirty contemporary software or agency websites, erase their logos, and place their hero sections side-by-side. \nAt Let's Think Studio, we believe this era of homogenized digital templates is definitively over.\n    ",
+      "featuredImage": "https://images.unsplash.com/photo-1516962215378-7fa2e137ae93?q=80&w=1200&auto=format&fit=crop",
+      "featuredImageAlt": "Editorial design and typography layout review",
+      "category": "Design Direction",
+      "tags": [
+        "Editorial Design",
+        "Typography",
+        "Art Direction"
+      ],
+      "authorName": "Let's Think Studio",
+      "readingTimeMinutes": 4,
+      "status": "published",
+      "publishedAt": "2026-01-20T11:30:00Z",
+      "seoTitle": "The Death of Generic Tech Aesthetics | Let's Think Studio",
+      "seoDescription": "Why the future of digital design belongs to editorial discipline and typographic authority.",
+      "createdAt": "2026-01-20T11:30:00Z",
+      "updatedAt": "2026-01-20T11:30:00Z"
+    },
+    {
+      "id": "blog-3",
+      "title": "Typography as Brand Architecture: How Letterforms Anchor Memory",
+      "slug": "typography-as-brand-architecture",
+      "excerpt": "Before a reader parses the semantic meaning of words, their subconscious has already evaluated the voice, authority, and posture of the typeface.",
+      "content": "\n### The Silent Voice in the Room\nType is voice made visible. Long before a prospect consciously reads your copy, the stroke contrast and aperture have transmitted hundreds of subconscious signals.\n    ",
+      "featuredImage": "https://images.unsplash.com/photo-1455390582262-044cdead277a?q=80&w=1200&auto=format&fit=crop",
+      "featuredImageAlt": "Antique typography and modern letterform sketches",
+      "category": "Branding",
+      "tags": [
+        "Typography",
+        "Brand Identity"
+      ],
+      "authorName": "Let's Think Studio",
+      "readingTimeMinutes": 4,
+      "status": "published",
+      "publishedAt": "2025-12-10T14:15:00Z",
+      "seoTitle": "Typography as Brand Architecture | Let's Think Studio",
+      "seoDescription": "How letterforms anchor brand memory and establish subliminal authority.",
+      "createdAt": "2025-12-10T14:15:00Z",
+      "updatedAt": "2025-12-10T14:15:00Z"
+    }
+  ],
+  "testimonials": [],
+  "settings": {
+    "studioName": "Let's Think Studio",
+    "tagline": "Good ideas deserve great design.",
+    "shortBio": "An independent creative studio that helps businesses build memorable brands and communicate through impactful design and digital experiences.",
+    "contactEmail": "hello@letsthinkstudio.com",
+    "contactPhone": "",
+    "whatsappNumber": "",
+    "physicalAddress": "",
+    "accentColor": "#FF572D",
+    "socialLinks": {
+      "instagram": "https://instagram.com/letsthinkstudio",
+      "linkedin": "https://linkedin.com/company/letsthinkstudio",
+      "twitter": "https://x.com/letsthinkstudio",
+      "behance": "https://behance.net/letsthinkstudio"
+    },
+    "seoDefaultTitle": "Let's Think Studio | Creative Thinking Meets Strategic Execution",
+    "seoDefaultDescription": "Independent creative agency specializing in brand identity, custom website design, packaging, and digital strategy. Think Beyond. Create With Purpose.",
+    "footerText": "Let's Think Studio. All rights reserved. Formerly known as Ktech Creatives.",
+    "notifyOnNewEnquiry": true,
+    "notificationEmail": "leads@letsthinkstudio.com",
+    "updatedAt": "2026-02-01T00:00:00Z"
+  },
+  "enquiries": [
+    {
+      "id": "enq-1791041037032-923",
+      "fullName": "Alex Mercer",
+      "companyName": "",
+      "businessEmail": "alex@example.com",
+      "phoneNumber": "",
+      "serviceRequired": "Brand Strategy & Identity",
+      "projectDescription": "We are seeking a complete brand identity refresh and a modern web application design for our SaaS product.",
+      "budgetRange": "$10,000 - $25,000",
+      "expectedTimeline": "Urgent (< 1 month)",
+      "referralSource": "",
+      "privacyConsent": true,
+      "status": "New",
+      "leadSource": "Website Enquiry Form",
+      "internalNotes": "",
+      "notesHistory": [],
+      "createdAt": "2026-10-03T15:23:57.032Z",
+      "updatedAt": "2026-10-03T15:23:57.032Z"
+    },
+    {
+      "id": "enq-001",
+      "fullName": "Julian Thorne",
+      "companyName": "Thorne Aerospace Dynamics",
+      "businessEmail": "j.thorne@thorne-aero.com",
+      "phoneNumber": "+1 (555) 234-8901",
+      "serviceRequired": "Branding & Identity",
+      "projectDescription": "We are spinning off a satellite division and need complete naming, branding, and investor collateral.",
+      "budgetRange": "$25,000 - $50,000",
+      "expectedTimeline": "1 - 2 Months",
+      "referralSource": "Recommendation",
+      "privacyConsent": true,
+      "status": "Meeting Scheduled",
+      "followUpDate": "2026-10-08",
+      "leadSource": "Website Enquiry Form",
+      "internalNotes": "Meeting scheduled with Julian for Thursday 2pm.",
+      "createdAt": "2026-09-28T14:32:00Z",
+      "updatedAt": "2026-09-29T10:15:00Z"
+    }
+  ],
+  "activityLogs": [
+    {
+      "action": "New Enquiry Submitted",
+      "entityType": "enquiry",
+      "entityId": "enq-1791041037032-923",
+      "details": {
+        "client": "Alex Mercer",
+        "company": "",
+        "service": "Brand Strategy & Identity"
+      },
+      "id": "act-1791041037032-220",
+      "actorEmail": "admin@letsthinkstudio.com",
+      "createdAt": "2026-10-03T15:23:57.032Z"
+    },
+    {
+      "id": "act-init-1",
+      "action": "System Initialized",
+      "entityType": "settings",
+      "details": {
+        "message": "Let's Think Studio core data layer initialized."
+      },
+      "actorEmail": "system@letsthinkstudio.com",
+      "createdAt": "2026-10-03T15:07:19.770Z"
+    }
+  ]
+}
